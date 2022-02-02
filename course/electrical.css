@@ -1,11 +1,11 @@
 body{
-    background-image:url(/pic/backelec.jpg);
+    background-image:url(/course/pic/backelec.jpg);
     
 }
 .el{
     height: 490px;
     width: 100%;
-   background-image: url(/pic/electric.jpg);
+   background-image: url(/course/pic/electric.jpg);
 }
 
 
