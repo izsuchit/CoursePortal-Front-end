@@ -1,10 +1,10 @@
 body{
-    background-image: url(/pic/backall.jpg);
+    background-image: url(/course/pic/backall.jpg);
 }
 .ch{
     height: 490px;
     width: 100%;
-    background-image:url(/pic/bachc.jpg);
+    background-image:url(/course/pic/bachc.jpg);
 }
 #che{
     position: absolute;
