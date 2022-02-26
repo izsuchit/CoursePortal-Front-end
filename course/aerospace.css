@@ -7,7 +7,7 @@ body{
 .ae{
     height: 490px;
     width: 100%;
-    background-image:url(backaero.jpg);
+    background-image:url(/course/pic/backaero.jpg);
  
     border: 2px solid rgb(216, 148, 148);
 }
